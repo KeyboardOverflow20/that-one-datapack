@@ -1,5 +1,7 @@
 # [Unnamed Datapack]
 
+#### THIS PROJECT IS ABANDONED!
+
 ### WARNING: Your world might heavily lag after installation of the datapack. Use with caution.
 ## What is this file for?
 This is the BLEEDING EDGE branch. World destruction/corruption is possible, so remember to back them up.
@@ -14,7 +16,7 @@ May be licensed with GNU GPL v3. Or in the public domain. I don't know, honestly
 Testing with Minecraft. /give, /effect, /entitydata, you name it. Plus other useful stuff for servers (probably).
 
 ## Maintainers
-Current maintainers of this project are:
+Former maintainers of this project are:
 - @UnderSet (former repository owner)
 - @KeyboardOverflow20
 
