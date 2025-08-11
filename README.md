@@ -1,6 +1,6 @@
 # [Unnamed Datapack]
 
-#### THIS PROJECT IS ABANDONED!
+# THIS PROJECT IS ABANDONED!
 
 ### WARNING: Your world might heavily lag after installation of the datapack. Use with caution.
 ## What is this file for?
